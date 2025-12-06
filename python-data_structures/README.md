@@ -15,3 +15,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 4-new_in_list.py: Returns a new list with an element replaced at a given index, without modifying the original list.
+# Python Data Structures
+
+- 5-no_c.py: Removes all characters 'c' and 'C' from a string and returns the new string.
