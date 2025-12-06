@@ -21,3 +21,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 6-print_matrix_integer.py: Prints a matrix of integers using str.format(), with each row on a new line.
+# Python Data Structures
+
+- 7-add_tuple.py: Adds two tuples element-wise. If a tuple has fewer than 2 elements, missing values are treated as 0. If a tuple has more than 2 elements, only the first two are used.
