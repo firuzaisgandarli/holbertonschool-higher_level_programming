@@ -12,3 +12,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 3-print_reversed_list_integer.py: Prints all integers of a list in reverse order using str.format().
+# Python Data Structures
+
+- 4-new_in_list.py: Returns a new list with an element replaced at a given index, without modifying the original list.
