@@ -27,3 +27,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 8-multiple_returns.py: Returns a tuple with the length of a string and its first character (None if empty).
+# Python Data Structures
+
+- 9-max_integer.py: Finds the biggest integer in a list. Returns None if the list is empty.
