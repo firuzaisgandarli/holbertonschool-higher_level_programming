@@ -33,3 +33,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 10-divisible_by_2.py: Returns a new list of booleans indicating whether each element is divisible by 2.
+# Python Data Structures
+
+- 11-delete_at.py: Deletes the element at a given index in a list. If index is invalid, returns the same list unchanged.
