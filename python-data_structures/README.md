@@ -9,3 +9,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 2-replace_in_list.py: Replaces an element at index if valid; otherwise returns original list unchanged.
+# Python Data Structures
+
+- 3-print_reversed_list_integer.py: Prints all integers of a list in reverse order using str.format().
