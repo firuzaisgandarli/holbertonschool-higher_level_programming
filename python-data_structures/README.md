@@ -18,3 +18,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 5-no_c.py: Removes all characters 'c' and 'C' from a string and returns the new string.
+# Python Data Structures
+
+- 6-print_matrix_integer.py: Prints a matrix of integers using str.format(), with each row on a new line.
