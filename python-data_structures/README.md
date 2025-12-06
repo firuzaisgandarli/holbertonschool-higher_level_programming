@@ -30,3 +30,6 @@ This project contains functions working with lists and integers.
 # Python Data Structures
 
 - 9-max_integer.py: Finds the biggest integer in a list. Returns None if the list is empty.
+# Python Data Structures
+
+- 10-divisible_by_2.py: Returns a new list of booleans indicating whether each element is divisible by 2.
