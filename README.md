@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Holberton School Higher Level Programming
 
 Bu repo Python layihələri və tapşırıqları üçün nəzərdə tutulub.  
@@ -44,3 +45,8 @@ Bu proje, Python'da **fonksiyonları import etme**, **modüller oluşturma** ve 
 $ ./0-add.py
 1 + 2 = 3
 >>>>>>> f41ee6c (Initial commit: import modules project)
+=======
+# Python More Data Structures
+
+- 0-square_matrix_simple.py: Returns a new matrix with each integer squared; original matrix is not modified.
+>>>>>>> b1ef6f8 (Add 0-square_matrix_simple.py for python-more_data_structures)
