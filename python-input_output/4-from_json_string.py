@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+"""Module that defines a function to convert JSON string to Python object"""
+import json
+
+
+def from_json_string(my_str):
+    """
+    Return an object (Python data structure) represented by a JSON string.
+    Args:
+        my_str (str): JSON string to deserialize
+    Returns:
+        object: Python data structure
+    """
+    return json.loads(my_str)
